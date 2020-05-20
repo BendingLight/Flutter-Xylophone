@@ -4,6 +4,5 @@ Xylophone is a cross-platform musical mobile application. Tap on each colored ti
 Screenshots:
 
 
-![](Screenshots/Xylophone_home.png)
-
-![](Screenshots/Xylophone_recents.png)
+<img src="https://github.com/BendingLight/Flutter-Xylophone/blob/master/Screenshots/Xylophone_home.png" width="200">
+<img src="https://github.com/BendingLight/Flutter-Xylophone/blob/master/Screenshots/Xylophone_recents.png" width="200">
